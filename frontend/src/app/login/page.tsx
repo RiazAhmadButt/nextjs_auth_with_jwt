@@ -86,7 +86,7 @@ export default function LoginPage() {
             </Button>
             <div className="w-full text-center">
               <Link href="/register" className="text-sm text-blue-600 hover:underline">
-                Don't have an account? Register here
+              Don&apos;t have an account? Register here
               </Link>
             </div>
           </CardFooter>
